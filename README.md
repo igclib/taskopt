@@ -1,2 +1,3 @@
 # taskopt
-Task optimization research
+
+Figuring out what the optimal line is.
